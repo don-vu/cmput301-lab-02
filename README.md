@@ -2,12 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Don Vu`
+- **CCID:** `dpvu`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+1. [Using OnClickListener in Android Studio](https://medium.com/@charlesliu_83897/using-onclicklistener-in-android-studio-82d4ce026e62)
+2. [EditText](https://developer.android.com/reference/android/widget/EditText#getText())
+
+3. [ArrayAdapter](https://developer.android.com/reference/android/widget/ArrayAdapter)
 
 ## Verbal Collaboration
 
